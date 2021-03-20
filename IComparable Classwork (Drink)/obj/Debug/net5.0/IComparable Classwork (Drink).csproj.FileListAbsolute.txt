@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\bin\Debug\net5.0\IComparable Classwork (Drink).exe
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\bin\Debug\net5.0\IComparable Classwork (Drink).deps.json
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\bin\Debug\net5.0\IComparable Classwork (Drink).runtimeconfig.json
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\bin\Debug\net5.0\IComparable Classwork (Drink).runtimeconfig.dev.json
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\bin\Debug\net5.0\IComparable Classwork (Drink).dll
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\bin\Debug\net5.0\ref\IComparable Classwork (Drink).dll
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\bin\Debug\net5.0\IComparable Classwork (Drink).pdb
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).AssemblyInfo.cs
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).dll
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\ref\IComparable Classwork (Drink).dll
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).pdb
+C:\Users\Александр\source\repos\Intro CSharp\IComparable Classwork (Drink)\obj\Debug\net5.0\IComparable Classwork (Drink).genruntimeconfig.cache
