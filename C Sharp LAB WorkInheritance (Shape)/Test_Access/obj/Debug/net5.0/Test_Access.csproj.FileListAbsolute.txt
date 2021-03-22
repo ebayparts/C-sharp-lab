@@ -1,0 +1,23 @@
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).deps.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).runtimeconfig.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).runtimeconfig.dev.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).exe
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\Test_Access.exe
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\Test_Access.deps.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\Test_Access.runtimeconfig.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\Test_Access.runtimeconfig.dev.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\Test_Access.dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\ref\Test_Access.dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\Test_Access.pdb
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).pdb
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.csprojAssemblyReference.cache
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.AssemblyInfoInputs.cache
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.AssemblyInfo.cs
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.csproj.CoreCompileInputs.cache
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.csproj.CopyComplete
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\ref\Test_Access.dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.pdb
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\Test_Access\obj\Debug\net5.0\Test_Access.genruntimeconfig.cache

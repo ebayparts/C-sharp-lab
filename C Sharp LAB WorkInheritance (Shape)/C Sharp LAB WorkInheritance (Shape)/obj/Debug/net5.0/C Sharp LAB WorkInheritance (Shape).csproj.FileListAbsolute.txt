@@ -1,0 +1,16 @@
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).exe
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).deps.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).runtimeconfig.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).runtimeconfig.dev.json
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\bin\Debug\net5.0\ref\C Sharp LAB WorkInheritance (Shape).dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\bin\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).pdb
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).csprojAssemblyReference.cache
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).AssemblyInfoInputs.cache
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).AssemblyInfo.cs
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).csproj.CoreCompileInputs.cache
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\ref\C Sharp LAB WorkInheritance (Shape).dll
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).pdb
+D:\Навчання ШАГ\C sharp\c sharp lab\C Sharp LAB WorkInheritance (Shape)\C Sharp LAB WorkInheritance (Shape)\obj\Debug\net5.0\C Sharp LAB WorkInheritance (Shape).genruntimeconfig.cache

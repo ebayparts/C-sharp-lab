@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Test_Access/1.0.0": {
+        "runtime": {
+          "Test_Access.dll": {}
+        }
+      },
+      "C Sharp LAB WorkInheritance (Shape)/1.0.0": {
+        "runtime": {
+          "C Sharp LAB WorkInheritance (Shape).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Test_Access/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "C Sharp LAB WorkInheritance (Shape)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
