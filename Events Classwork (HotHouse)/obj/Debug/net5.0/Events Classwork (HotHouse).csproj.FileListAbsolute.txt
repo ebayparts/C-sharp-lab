@@ -1,0 +1,16 @@
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\bin\Debug\net5.0\Events Classwork (HotHouse).exe
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\bin\Debug\net5.0\Events Classwork (HotHouse).deps.json
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\bin\Debug\net5.0\Events Classwork (HotHouse).runtimeconfig.json
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\bin\Debug\net5.0\Events Classwork (HotHouse).runtimeconfig.dev.json
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\bin\Debug\net5.0\Events Classwork (HotHouse).dll
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\bin\Debug\net5.0\ref\Events Classwork (HotHouse).dll
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\bin\Debug\net5.0\Events Classwork (HotHouse).pdb
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).AssemblyInfo.cs
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).dll
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\ref\Events Classwork (HotHouse).dll
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).pdb
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).genruntimeconfig.cache
+C:\Users\Александр\source\repos\Intro CSharp\Events Classwork (HotHouse)\obj\Debug\net5.0\Events Classwork (HotHouse).csprojAssemblyReference.cache
